@@ -1,0 +1,9 @@
+OBJETOS: son contenedores de datos. Los objetos contienen mucha informacion sobre una sola cosa.Se instancian usando llaves.
+
+PROPIEDADES: denominamos propiedades (o atributos) a toda variable que definimos y asociamos a nuestro objeto, son caracteristicas propias de ese objeto.
+
+METODOS: las funciones guardadas en un objeto se denominan metodos. Dentro de estas funciones guardamos valores. Podemos establecer una clave para un nombre y un valor para una funcion. Llamaremos a estos metodos usando notacion de puntos y parentesis finales. Tambien lo podemos llamar a un metodo con argumentos.
+
+BUCLE for...in: sirve para iterar sobre cada par clave-valor en nuestro objeto. En su sintaxis comenzamos entre parentesis declarando una variable, la palabra clave "in" y el nombre del objeto. Esto recorrera cada clave del objeto y finalizara cuando se hayan iterado todas las claves.
+
+NOTACION DE PUNTOS vs NOTACION DE CORCHETES: con la notacion de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave. La notacion de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o numero, o una variable que apunte a una cadena o numero. Generalmente los corchetes se usan con variables.
