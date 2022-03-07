@@ -1,0 +1,8 @@
+Bucle FOR: los bucles FOR tienen una sintaxis unica, similar a la instruccion If  pero un poco mas compleja. Primero tenemos la palbra clave FOR, seguida de parentesis y luego abrir y cerrar llaves. Dentro de los parentesis van tres parametros, primero declarar una variable, esto es sobre lo que se repetira el bucle. Entonces tendremos una expresion condicional. el ciclo continua secesiendo hasta que esta declaracion sea Falsa. Tercero, incrementaremos nuestra variable. El bucle FOR evaluara la expresion condicional. Si es Verdadera (true), se ejecutara nuevamente, si es falso (false) dejara de funcionar.
+
+
+Operadores Logicos: utilizamos operadores logicos para combinar dos expresiones de iguadad y preguntar si algunba de las dos es verdadera, su ambas son verdaderas o si ninguna de ellas es verdadera.
+&& (Y): se escribe don dos simbolos. Esto evaluara ambas expresiones y devolvera verdaderos si ambas son verdaderas (true). Si una o ambas son falsas (false), este operador devolvera Falso.
+|| (O): se escribe con dos barras verticales. Determinara si una de las expresiones es verdadera (true). Devolvera true si una (o ambas) de las expresiones es verdadera (true). Devolvera falso (false) si ambas expresiones son Falsas.
+! (NO): esta escrito como un solo signo de Exclamacion (!). El operador NOT devolvera el valor booleano opuesto de lo que se le pasa.
+

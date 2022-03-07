@@ -1,0 +1,9 @@
+VARIABLES: una variable es una forma de almacenar el valor de algo para usar mas tarde. Se crea con la palabra clave var, seguida de un espacio y el nombre de la variable. Se le asigna un valor por medio del signo igual. Una variable se puede configurar (y restablecer a cualquier tipo.
+
+STRING: los string son bloques de texto, siempre se definiran entre comillas, ya sea simple o doble. Cualquier texto entre comillas es una cadena o string.
+
+FUNCIONES: las funciones son tipos particulares de objetos, llamados "callable objects" u 0bjetos invocables, por lo que tienen las mismas propiedades de cualqier objeto. Necesitamos las funciones para carcular, cambiar, hacer algo con un conjunto de variables.
+
+DECLARACIONES: la declaracion de retorno, return, es la unica forma en que los datos escapan de una funcion. No se puede acceder a nada mas que a lo que se devuelve fuera de la funcion. Cuando una funcion golpea la declaracion de retorno, la funcion detiene inmediatamente lo que eta haciendo y "devuelve" lo especificado.
+
+VALORES BOOLEANOS: los booleanos vienen de la logica de Boole. es un concepto que alimenta el codigo binario  y el nucleo de las computadoras, logicas booleanas.Escencialmente significa que tiene dos opciones, activar o desactivar, verdadero o falso, 1 o 0.
