@@ -1,0 +1,21 @@
+
+    h1 {
+        color: gold;
+    }
+    img {
+        width: 200px;
+        height: 200px;
+    }
+    #thirdDirv {
+        width: 400px;
+        height: 600px;
+        background-color: rgb(168, 168, 35);
+        padding: 50px;
+        border: 5px yellow;
+        border-color: rgb(252, 215, 10);
+        border-style: dotted;
+    }
+    #spanId {
+        font-size: 18px;
+        margin: 50px;
+    }
